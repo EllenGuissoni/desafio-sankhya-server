@@ -1,1 +1,1 @@
-# desafio-sankhya-server
+# sk-challenge-server
