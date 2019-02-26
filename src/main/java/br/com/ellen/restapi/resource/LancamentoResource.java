@@ -17,7 +17,7 @@ import br.com.ellen.restapi.model.Lancamento;
 import br.com.ellen.restapi.service.LancamentoService;
 
 @RestController
-@RequestMapping("transactions")
+@RequestMapping("lancamentos")
 public class LancamentoResource {
 
 	@Autowired
